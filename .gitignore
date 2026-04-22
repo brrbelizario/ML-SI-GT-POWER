@@ -1,0 +1,17 @@
+# Ambientes virtuais (muito importante não subir!)
+venv/
+.venv/
+env/
+
+# Python (arquivos temporários)
+__pycache__/
+*.py[cod]
+
+# Dados e Modelos (arquivos geralmente grandes)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+# VS Code
+.vscode/
